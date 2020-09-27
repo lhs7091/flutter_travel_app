@@ -1,5 +1,6 @@
 // Screens(/lib/screen/*)
 export './screen/home_screen.dart';
+export './screen/destination_screen.dart';
 
 // model(/lib/model/*)
 export './model/activity_model.dart';
