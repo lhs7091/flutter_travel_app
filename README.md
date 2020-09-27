@@ -22,3 +22,8 @@ https://api.flutter.dev/flutter/widgets/Stack-class.html
 ## Hero(widget for animation)
 
 https://api.flutter.dev/flutter/widgets/Hero-class.html
+
+## Widget size
+
+I want to be as big as my parent allows (double.infinity)  
+I want to be as big as the screen (MediaQuery)
